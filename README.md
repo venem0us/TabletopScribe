@@ -1,5 +1,5 @@
 # Tabletop Scribe
-**Tabletop Scribe - Your Ultimate RPG Session Companion**
+**Your Ultimate RPG Session Companion**
 
 Never lose track of your epic adventures again. Tabletop Scribe automatically records and summarizes your tabletop RPG sessions, transforming hours of gameplay into clear, readable summaries that capture all the important moments, plot developments, and character interactions.
 
