@@ -21,3 +21,13 @@ Never lose track of your epic adventures again. Tabletop Scribe automatically re
 Transform your gaming sessions from forgotten memories into lasting chronicles. Whether you’re running a months-long campaign or playing one-shots, Tabletop Scribe ensures every heroic deed, clever solution, and memorable moment is preserved and easily accessible.
 
 *Note: Requires your own OpenAI API key for summary generation.*
+## Instructions
+
+**Requirements:**
+- Microsoft Windows operating system (currently tested on Windows 11)
+- Install .NET Framework 9.0
+- 8 GB of free disk space (Faster Whisper XXL takes up a lot of room)
+
+**Installation**
+- This preliminary release doesn't have an installer, so just download all of the files into a folder of your choosing.
+- Launch DDScribe.exe.
