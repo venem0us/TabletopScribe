@@ -36,3 +36,7 @@ Transform your gaming sessions from forgotten memories into lasting chronicles. 
 1. Get an OpenAI API Key - Good step-by-step instructions [here](https://medium.com/@Bilal.se/how-to-get-your-own-openai-api-key-a-step-by-step-guide-3a6ad660b915)
 2. Open the app.config in the root folder of the installation with Notepad or your favorite text editor.
 3. Add your API key to the "value" of OpenAIkey, it will be blank by default.
+
+**Credits**
+- [FantaCSS](https://www.fantacss.smoljames.com/) by Smoljames
+- [Faster Whisper XXL](https://github.com/Purfview/whisper-standalone-win) by Purfview
