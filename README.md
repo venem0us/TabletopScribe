@@ -30,16 +30,15 @@ Transform your gaming sessions from forgotten memories into lasting chronicles. 
 - OpenAI API key
 
 **Installation**
-- Install [.NET Desktop Runtime 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
-- Download the latest release: [v0.1 alpha](https://github.com/venem0us/TabletopScribe/releases/tag/v0.1a)
-- Extract the contents of the release ZIP file into a folder.
-- Launch TScribe.exe.
-
-**Manual**
 1. Get an OpenAI API Key - Good step-by-step instructions [here](https://medium.com/@Bilal.se/how-to-get-your-own-openai-api-key-a-step-by-step-guide-3a6ad660b915)
-2. When you launch Tabletop Scribe for the first time it will ask you to enter your API key. Paste it into the provided text field and click "Save".
-3. It will automatically download Faster Whisper XXL.
-4. THIS IS A PRE-RELEASE VERSION -- YOU WILL ENCOUNTER A BUG OR TWO.
+2. Install [.NET Desktop Runtime 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
+3. Download the latest release of Tabletop Scribe: [v0.1 alpha](https://github.com/venem0us/TabletopScribe/releases/tag/v0.1a)
+4. Extract the contents of the release ZIP file into a folder.
+5. Launch TScribe.exe.
+6. When you launch Tabletop Scribe for the first time it will ask you to enter your API key. Paste it into the provided text field and click "Save".
+7. It will automatically download Faster Whisper XXL.
+
+**THIS IS A PRE-RELEASE VERSION -- YOU WILL ENCOUNTER A BUG OR TWO.**
 
 **Credits**
 - [FantaCSS](https://www.fantacss.smoljames.com/) by Smoljames
