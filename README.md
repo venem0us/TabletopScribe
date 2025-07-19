@@ -25,11 +25,13 @@ Transform your gaming sessions from forgotten memories into lasting chronicles. 
 
 **Requirements:**
 - Microsoft Windows operating system (currently tested on Windows 11)
-- Install .NET Framework 9.0
+- Install .NET Desktop Runtime 9.0
 - 8 GB of free disk space (Faster Whisper XXL takes up a lot of room)
 - OpenAI API key
 
 **Installation**
+- Install [.NET Desktop Runtime 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
+- Download the latest release: [v0.1 alpha](https://github.com/venem0us/TabletopScribe/releases/tag/v0.1a)
 - Extract the contents of the release ZIP file into a folder.
 - Launch TScribe.exe.
 
