@@ -29,13 +29,12 @@ Transform your gaming sessions from forgotten memories into lasting chronicles. 
 - 8 GB of free disk space (Faster Whisper XXL takes up a lot of room)
 
 **Installation**
-- This preliminary release doesn't have an installer, so just download all of the files into a folder of your choosing.
-- Launch DDScribe.exe.
+- Extract the contents of the release ZIP file into a folder.
+- Launch TScribe.exe.
 
 **Manual**
 1. Get an OpenAI API Key - Good step-by-step instructions [here](https://medium.com/@Bilal.se/how-to-get-your-own-openai-api-key-a-step-by-step-guide-3a6ad660b915)
-2. Open the app.config in the root folder of the installation with Notepad or your favorite text editor.
-3. Add your API key to the "value" of OpenAIkey, it will be blank by default.
+2. When you launch Tabletop Scribe for the first time it will ask you to enter your API key. Paste it into the provided text field and click "Save".
 
 **Credits**
 - [FantaCSS](https://www.fantacss.smoljames.com/) by Smoljames
